@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list-item {
+  display: flex;
+}
+
+.disabled {
+  color: grey;
+  text-decoration: str;
+}
